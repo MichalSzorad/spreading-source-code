@@ -13,3 +13,18 @@ Some short description of the project.
 Keywords: Redux, React, TypeScript
 
 ---
+
+### Angular Docs
+https://angular.io/
+
+Official Angular documentation.
+
+Keywords: Angular, TypeScript
+
+
+### React Docs
+https://reactjs.org/
+
+Official React documentation.
+
+Keywords: JavaScript, React
